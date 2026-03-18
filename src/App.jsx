@@ -8,6 +8,7 @@ function App() {
       <h1>My SQL Sheet</h1>
       <p>Note: Used to read data from the database</p>
       <div>
+        <h1>Hi</h1>
         <h2>Commmon Clause</h2>
         <ul>
           <li>SELECT</li>
@@ -108,6 +109,7 @@ function App() {
           <li>DELETE</li>
         </ul>
       </div>
+
     </div>
   )
 }
